@@ -1,0 +1,11 @@
+streamlit
+streamlit-folium
+folium
+opencv-python-headless
+osmnx
+networkx
+pandas
+altair
+requests
+scipy
+numpy
