@@ -9,3 +9,4 @@ altair
 requests
 scipy
 numpy
+scikit-learn
